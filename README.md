@@ -1,9 +1,13 @@
 The file of code is constructed as:
 
 -summer_household_energydata.csv
+
 -winter_household_energydata.csv
+
 -optimizer_complete.ipynb
+
 -data_visualisation.ipynb
+
 -result_visualisation.ipynb
 
 
